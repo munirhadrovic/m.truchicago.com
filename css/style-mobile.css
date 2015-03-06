@@ -266,3 +266,6 @@ b {
 i {
     color: #FF6600;
 }
+textarea {
+    border-color: #000;
+}

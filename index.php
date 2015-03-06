@@ -247,6 +247,7 @@
 					</section>
 
                     <p>This is only a <b>PREVIEW</b> version of your Mobile Website.</p>
+                    <hr/>
                     <p>Please contatact our official Sales Representative for <b>Full Functional Version.</b></p>
 
 
