@@ -23,9 +23,9 @@
 }
 
 #header-image h1{
-    margin: 0px 0%;
+    margin: 0px 15%;
     padding: 0px 0px;
-    margin-bottom: -7px;
+    margin-bottom: 0px;
 }
 #menu {
   display:none;

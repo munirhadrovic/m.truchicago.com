@@ -1100,7 +1100,7 @@ html .ui-body-b .ui-bar-inherit,
 html body .ui-group-theme-b .ui-bar-inherit {
     background-image: url("Bottom_texture.jpg");
 	/*border-color:	 		#54A184 /*{b-bar-border}*/;
-	color: 					#000 /*{b-bar-color}*/;
+	color: 					#817F7F /*{b-bar-color}*/;
 
 }
 .ui-bar-b {
@@ -1460,7 +1460,7 @@ div.ui-mobile-viewport {
 }
 .ui-header .ui-title,
 .ui-footer .ui-title {
-	font-size: 1em;
+	font-size: 13px;
 	min-height: 1.1em;
 	text-align: center;
 	display: block;
